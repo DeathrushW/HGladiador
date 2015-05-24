@@ -1,0 +1,12 @@
+main: me.herobrinedobem.hgladiador.HGladiador
+name: HGladiador
+version: 1.6
+description: Plugin de gladiador automatico
+
+commands:
+  gladiador:
+    aliases: [glad]
+    description: Todos os comandos do plugin para players
+  gladiadoradmin:
+    aliases: [gladadm]
+    description: Todos os comandos do plugin para admins
